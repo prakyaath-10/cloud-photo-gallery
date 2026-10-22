@@ -8,3 +8,4 @@ A full-stack, cloud-native photo gallery web application utilizing an AWS server
 - **Backend Services**: AWS Lambda (Node.js 18+) via API Gateway.
 - **Database**: AWS DynamoDB for image metadata, captions, and user sorting.
 - **Storage**: Amazon S3 for secure asset management.
+- ![Cloud Photo Gallery UI](assets/preview.png)
